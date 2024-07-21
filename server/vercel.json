@@ -14,7 +14,6 @@
   ],
   "env": {
     "DB_URL": "DB_URL",
-    "PORT": "PORT",
     "JWT_SECRET": "JWT_SECRET"
   }
 }

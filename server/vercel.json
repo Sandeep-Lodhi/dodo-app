@@ -13,7 +13,9 @@
     }
   ],
   "env": {
-    "DB_URL": "@db_url",
-    "JWT_SECRET": "@jwt_secret"
+    "DB_URL": "DB_URL",
+    "PORT": "PORT",
+    "JWT_SECRET": "JWT_SECRET"
   }
 }
+
